@@ -7,7 +7,11 @@ package if1.pkg10118015.latihan50energikinetik;
 
 /**
  *
- * @author ACER
+ * @author 
+ * NAMA                 : Adi Chandra Nugraha
+ * KELAS                : IF-1
+ * NIM                  : 10118015
+ * Deskripsi Program    : Program ini berisi program Menghitung energi Kinetik
  */
 public class IF110118015Latihan50EnergiKinetik {
 
